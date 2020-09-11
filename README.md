@@ -4,7 +4,7 @@ After studying the MRNet dataset, the data was read as each patient is single da
 
 ### Baseline approach
 started with building the following well-known networks from scratch using Keras Layers:
-• Visual Geometry Group (VGG)\n
+• Visual Geometry Group (VGG)\
 • Residual neural network (ResNet)\n
 • MobileNet\n
 • Inception V3,V5\n
